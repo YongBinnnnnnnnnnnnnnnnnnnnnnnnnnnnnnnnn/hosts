@@ -31,6 +31,10 @@
 0.0.0.0 a.pub.network
 0.0.0.0 c.pub.network
 
+0.0.0.0 ads.adthrive.com
+
+0.0.0.0 c.aps.amazon-adsystem.com
+
 # marked from https://github.com/juewuy/ShellCrash/issues/495 
 0.0.0.0 max-l.mediav.com
 0.0.0.0 jx.cdn.qhstatic.com
