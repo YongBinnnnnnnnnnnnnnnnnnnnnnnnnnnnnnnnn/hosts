@@ -9,7 +9,7 @@
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 redirector.gvt1.com
 #0.0.0.0 openvsxorg.blob.core.windows.net
-0.0.0.0 alive.github.com
+#0.0.0.0 alive.github.com
 0.0.0.0 collector.github.com
 0.0.0.0 im.qcloud.com
 0.0.0.0 web.sdk.qcloud.com
@@ -30,8 +30,11 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 a.pub.network
 0.0.0.0 c.pub.network
+
+# marked from https://github.com/juewuy/ShellCrash/issues/495 
+0.0.0.0 max-l.mediav.com
+0.0.0.0 jx.cdn.qhstatic.com
 0.0.0.0 max.lianmeng.360.cn
 0.0.0.0 ssxd.mediav.com
-0.0.0.0 jx.cdn.qhstatic.com
 
 
