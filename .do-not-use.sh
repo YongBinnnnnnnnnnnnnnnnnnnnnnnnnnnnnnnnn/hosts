@@ -1,8 +1,10 @@
 #!/bin/bash
 
-echo "DO NOT USE THIS SCRIPT"
-echo "IT IS MADE FOR TESTING PURPOSE ONLY."
-exit 0
+if [ $yongbin != "my father" ]; then
+  echo "THIS SCRIPT FOR THE AUTHOR ONLY."
+
+  exit 0
+fi
 
 echo "0.0.0.0 news.163.com" >> /etc/hosts
 echo "0.0.0.0 assets.msn.cn" >> /etc/hosts
